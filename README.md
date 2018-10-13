@@ -3,4 +3,4 @@ Learning programming
 
 Here is an example of a simple edit.
 
-ANd here is anopther edit
+And here is anopther edit
