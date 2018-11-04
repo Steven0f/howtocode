@@ -43,3 +43,4 @@ public class Calculator
 // 1) no need for parens around the result being returned by a 'return' statement (though they do no harm) 
 // 2) In Java, every function must be a methos of some class, so i moved the functions into the Calculator class
 // 3) otherwise,...looks good!
+// 4) 
